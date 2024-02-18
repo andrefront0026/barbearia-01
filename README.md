@@ -4,11 +4,11 @@
 
 <H3> projeto sendo desenvolvido com: HTML5 / CSS3 </H3>
 
+````
+O projeto conta com 3 páginas web
+````
+-HOME 
 
-***O projeto conta com 3 páginas web***
+-PRODUTOS
 
--Home 
-
--produtos
-
--contatos
+-CONTATOS
