@@ -1,8 +1,8 @@
-<h1>Projeto barbearia alura</h1>
+<h1 align ="center">Barbearia Alura</h1>
 
-> status do projeto: Em desenvolvimento.
+> Status do projeto: Em desenvolvimento.
 
-<H3> projeto sendo desenvolvido com: HTML5 / CSS3 </H3>
+<H3> Projeto sendo desenvolvido por: André Nobre </H3>
 
 ````
 O projeto conta com 3 páginas web
