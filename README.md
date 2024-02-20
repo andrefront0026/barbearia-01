@@ -6,11 +6,11 @@
 
 * história da barbearia e quando foi fundada.
 
-* beneficios para nossos clintes.
+* benefícios para nossos clientes.
 
 * Nossa missão é: 
 
-* Imagens logo tipo da barbearia.
+* Imagens logo-tipo da barbearia.
 
 <h2 align="center">PRODUTOS</h2>
 
