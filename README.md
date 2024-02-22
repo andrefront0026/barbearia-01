@@ -1,11 +1,8 @@
 <h1 align="center"> Barbearia Alura</h2>
 
-<<<<<<< HEAD
-*     Status do projeto: Em deselvovimento
-=======
-*     Status do projeto: em desenvolvimento
->>>>>>> desenvolvimento
 
+*     Status do projeto: Em deselvovimento
+   
 <h2 align="center">HOME</H2>
 
 * história da barbearia e quando foi fundada.
