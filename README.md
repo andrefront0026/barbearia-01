@@ -1,6 +1,7 @@
 <h1 align="center"> Barbearia Alura</h2>
 
-*     Status do projeto: em desenvolvimento
+*     Status do projeto: Em deselvovimento.
+
 
 <h2 align="center">HOME</H2>
 
