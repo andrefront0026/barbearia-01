@@ -2,6 +2,8 @@
 
 *     Status do projeto: em desenvolvimento
 
+<p>email andrenobredias@gmail.com</p>
+
 <h2 align="center">HOME</H2>
 
 * história da barbearia e quando foi fundada.
