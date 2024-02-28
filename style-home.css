@@ -2,13 +2,13 @@
 	width:100%;
 }
 
-.principal{
-	background: #CCCCCC;
-	padding: 30px;
-}
-
 .titulo-principal {
 	padding-left: 20px;
+}
+
+.principal p{
+	background: #CCCCCC;
+	padding: 30px;
 }
 
 .titulo-centralizado {
