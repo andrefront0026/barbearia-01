@@ -160,6 +160,7 @@ td, th {
 	font-size: 2em;
 	margin: 0 0 1em;
 	clear: left;
+	color:rgba(0,0,0,0.4);
 }
 
 .principal {
@@ -238,8 +239,14 @@ td, th {
 	transition: 400ms;
 }
 
+<<<<<<< HEAD
 .imagem-beneficios:hover {
 	opacity: 0.3;
+=======
+.imagem-beneficios:hover{
+	opacity: 0.3;
+	
+>>>>>>> desenvolvimento
 }
 
 .video {
