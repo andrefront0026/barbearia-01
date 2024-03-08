@@ -230,7 +230,7 @@ td, th {
 }
 
 .itens:before {
-content: "★";
+	content: "🟊";
 }
 
 .imagem-beneficios {
@@ -239,9 +239,8 @@ content: "★";
 	transition: 400ms;
 }
 
-.imagem-beneficios:hover{
+.imagem-beneficios:hover {
 	opacity: 0.3;
-	
 }
 
 .video {
