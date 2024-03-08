@@ -239,14 +239,8 @@ td, th {
 	transition: 400ms;
 }
 
-<<<<<<< HEAD
 .imagem-beneficios:hover {
 	opacity: 0.3;
-=======
-.imagem-beneficios:hover{
-	opacity: 0.3;
-	
->>>>>>> desenvolvimento
 }
 
 .video {
