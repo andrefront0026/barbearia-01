@@ -248,3 +248,25 @@ td, th {
 	margin: 2em auto;
 	box-shadow: 18px 12px 30px #000000;
 }
+
+/*estilizando a página para tamanhos de tela para celular*/
+
+@media screen and (max-width: 480px) {
+.caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
+	width: auto;
+}
+	
+h1 {
+	text-align: center;
+}
+
+nav {
+	position: static;
+}
+
+.lista-beneficios, .imagem-beneficios {
+
+	width: 100%;
+
+	}
+}
