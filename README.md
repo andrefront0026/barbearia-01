@@ -33,5 +33,3 @@
 <h3>Site desenvolvido em HTML5 / CSS3.</h3> 
 
 *      Desenvolvedor responsável: André Nobre
-
-<link href="barbearia-alura.mp4">
