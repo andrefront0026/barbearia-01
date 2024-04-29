@@ -15,11 +15,11 @@
 
 <h2 align="center">PRODUTOS</h2>
 
-* Melhor desenpenho com o usuário.
+* Melhor desempenho com o usuário.
 
 * opções de serviço como: cabelo / barba / cabelo+barba.
 
-* Melhor visibilidade para nossos clientes.
+* Melhor visibilidade para o usuário.
 
 <h2 align="center">CONTATOS</h2>
 
