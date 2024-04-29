@@ -29,7 +29,13 @@
 
 * Melhor interatividade com o cliente.
 
-
+  
 <h3>Site desenvolvido em HTML5 / CSS3.</h3> 
 
 *      Desenvolvedor responsável: André Nobre
+
+
+https://github.com/andrefront0026/barbearia-01/assets/159580394/48f78d62-f2d1-4a63-b313-ca323bed8732
+
+
+
